@@ -1,15 +1,7 @@
 <h1 align="center">Hi ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">, I'm Sree</h1>
 <h3 align="center">A passionate full stack and blockchain developer.</h3>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/sreeteja06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sreeteja06" height="30" width="40" /></a>
-<a href="https://twitter.com/sreeteja06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sreeteja06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sreeteja06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sreeteja06" height="30" width="40" /></a>
-<a href="https://instagram.com/m_sreeteja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="m_sreeteja" height="30" width="40" /></a>
-</p>
-
-### Languages and Tools
+<h3 align="center">Languages and Tools</h3>
 <p align="center"> 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -33,5 +25,17 @@
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-2a2c38?style=flat-square&logo=electron&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00aff0?style=flat-square&logo=go&logoColor=white" />
 </p>
+
+***
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://dev.to/sreeteja06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sreeteja06" height="30" width="40" /></a>
+<a href="https://twitter.com/sreeteja06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sreeteja06" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sreeteja06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sreeteja06" height="30" width="40" /></a>
+<a href="https://instagram.com/m_sreeteja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="m_sreeteja" height="30" width="40" /></a>
+</p>
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sreeteja06&label=Visitors&color=0e75b6&style=flat" alt="sreeteja06" /> </p>
