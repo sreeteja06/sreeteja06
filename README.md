@@ -30,6 +30,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
+<a href="https://supercharged.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="website" height="30" width="40" /></a>
 <a href="https://dev.to/sreeteja06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sreeteja06" height="30" width="40" /></a>
 <a href="https://twitter.com/sreeteja06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sreeteja06" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sreeteja06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sreeteja06" height="30" width="40" /></a>
