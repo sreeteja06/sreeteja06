@@ -1,5 +1,6 @@
 <h1 align="center">Hi ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">, I'm Sree</h1>
 <h3 align="center">A passionate full stack and blockchain developer.</h3>
+<h4 align="center">I like to keep my keyboard screaming ⌨, code building 💪, tests working🧪 and, program running 🏃‍♂️.</h4>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
