@@ -41,4 +41,4 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sreeteja06&label=Visitors&color=0e75b6&style=flat" alt="sreeteja06" /> </p>
-<p align="center">Currently Reading: <b><i>Mastering PostgreSQL 13</i></b></p>
+<p align="center">Currently Reading: <b><i>Building Microservices: Designing Fine-Grained Systems</i></b></p>
