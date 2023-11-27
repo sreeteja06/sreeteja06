@@ -1,7 +1,11 @@
 <h1 align="center">Hi ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">, I'm Sree</h1>
-<h3 align="center">A passionate full stack and blockchain developer.</h3>
+<h3 align="center">A Devoted Software Architect and DevOps Expert, Passionate About Building Scalable Solutions That Make a Difference</h3>
 <h4 align="center">I like to keep my keyboard screaming ⌨, code building 💪, tests working🧪 and, program running 🏃‍♂️.</h4>
 
+<p align="center">
+  As a seasoned Architect, I thrive on designing and implementing scalable, efficient solutions across various frameworks. My journey has led me to master the art of DevOps, ensuring seamless integration and deployment processes. I'm also deeply committed to creating intuitive and engaging user experiences, believing that the heart of great technology lies in its usability.
+</p>
+<!--
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -22,10 +26,15 @@
   <img alt="Blockchain" src="https://img.shields.io/badge/-BlockChain-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
   <img alt="BigData" src="https://img.shields.io/badge/-BigData-1F77B4?style=flat-square&logoColor=white" />
 </p>
-
 ***
+-->
 
 <h3 align="center">Connect with me</h3>
+
+<p align="center">
+  Let's connect and build something amazing together!
+</p>
+
 <p align="center">
 <a href="https://supercharged.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="website" height="30" width="40" /></a>
 <a href="https://dev.to/sreeteja06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sreeteja06" height="30" width="40" /></a>
