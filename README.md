@@ -46,4 +46,4 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sreeteja06&label=Visitors&color=0e75b6&style=flat" alt="sreeteja06" /> </p>
-<p align="center">Currently Reading: <b><i>The Design of Everyday Things</i></b></p>
+<p align="center">Currently Reading: <b><i>Python Concurrency with Asyncio</i></b></p>
