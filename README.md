@@ -46,4 +46,4 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sreeteja06&label=Visitors&color=0e75b6&style=flat" alt="sreeteja06" /> </p>
-<p align="center">Currently Reading: <b><i>Practical Statistics for data scientists.</i></b></p>
+<p align="center">Currently Reading: <b><i>Database Internals: A Deep Dive into How Distributed Data Systems Work</i></b> AND <b><i>Practical Statistics for data scientists.</i></b></p>
